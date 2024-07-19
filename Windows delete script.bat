@@ -1,3 +1,5 @@
+:: Use in windows safe-mode
+
 @echo off
 setlocal enabledelayedexpansion
 
